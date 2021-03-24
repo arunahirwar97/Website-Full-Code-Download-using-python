@@ -1,0 +1,82 @@
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url(%27fonts/c646327c__icomoon.eot);
+  src:  url(%27fonts/bbd835ad__icomoon.eot) format('embedded-opentype'),
+  url(%27fonts/df53eefc__icomoon.ttf) format('truetype'),
+  url(%27fonts/f8214c33__icomoon.woff) format('woff'),
+  url(%27fonts/a1ef59e8__icomoon.svg) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-city:before {
+  content: "\e900";
+  color: #029a00;
+}
+.icon-pincode:before {
+  content: "\e902";
+  color: #029a00;
+}
+.icon-state:before {
+  content: "\e903";
+  color: #029a00;
+}
+.icon-address:before {
+  content: "\e901";
+  color: #029a00;
+}
+.icon-Shape-13:before {
+  content: "\e907";
+}
+.icon-Shape-18:before {
+  content: "\e908";
+}
+.icon-Shape-19:before {
+  content: "\e909";
+}
+.icon-Shape-21:before {
+  content: "\e90a";
+}
+.icon-Shape-22:before {
+  content: "\e90b";
+}
+
+.icon-my-crops:before {
+  content: "\e910";
+  color: #9d9d9d;
+}
+.icon-justice:before {
+  content: "\e911";
+}
+.icon-prev:before{
+ 
+}
+.icon-next:before{
+  
+}
+
+
+
+
+/*!
+* AerWebCopy Engine [version 6.3.0]
+* Copyright Aeroson Systems & Co.
+* File mirrored from https://farmx.co.in/assets/css/icomoon.css
+* At UTC time: 2021-03-24 10:38:33.761489
+*/

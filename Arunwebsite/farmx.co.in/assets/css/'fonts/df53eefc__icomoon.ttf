@@ -1,0 +1,70 @@
+<!DOCTYPE>
+<html lang="en">
+
+<head>
+  <base href="/">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="assets/img/favicon.png">
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Intl.~locale.en"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.3/jspdf.debug.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/2.0.16/jspdf.plugin.autotable.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/mdb.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/icomoon.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link href="/assets/jquery.exzoom.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="stylesheet" href="styles.980f34e8c72a38b7c767.css"></head>
+
+<body class="app fixed-sn mdb-skin">
+  <!-- Enable bootstrap 4 theme -->
+  <script>
+    window.__theme = 'bs4';
+  </script>
+  <!-- App Loading... -->
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    var firebaseConfig = {
+      apiKey: "AIzaSyA442YxEVzOL8QtoaACmNVHUZD9zgQBZY4",
+      authDomain: "farmx-android.firebaseapp.com",
+      databaseURL: "https://farmx-android.firebaseio.com",
+      projectId: "farmx-android",
+      storageBucket: "farmx-android.appspot.com",
+      messagingSenderId: "169994995908",
+      appId: "1:169994995908:web:c772977677ce57944f6191",
+      measurementId: "G-PGX0TVL8TJ"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+  </script>
+<script src="runtime.aab39a068e8b209b7139.js" defer></script><script src="polyfills-es5.d88f970b8f533e1681b3.js" nomodule defer></script><script src="polyfills.2a0657e208eda18bb674.js" defer></script><script src="scripts.4208e13efd8a2a6690e7.js" defer></script><script src="main.dc5ae39170bd259c33e8.js" defer></script></body>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+
+</html>
